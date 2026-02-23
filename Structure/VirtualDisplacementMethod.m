@@ -19,4 +19,5 @@ q3 = solve(Q3,q3);
 Q1 = eval(Q1);
 Q2 = eval(Q2);
 Q = [Q1;Q2];
-Q = equationsToMatrix(Q,q1,q2)
+k = equationsToMatrix(Q,q1,q2)
+c = inv(k)
