@@ -1,2 +1,3 @@
-This repo is mainly my (and hopefully my colleages) structured Aerospace engineering codes.
+This repo is mainly my (and hopefully my colleagues) structured Aerospace engineering codes.
 this should serve as an algorithm that can help future students understand engineering coding (mainly structural analysis since this is trendy in CUFE, and hopefully other fields as well)
+this should be updated regularly alongside our studies. and hopefully, with help from colleagues, to be restructured and kept readable, easy to navigate and straight to the point. this will accelerate the process of those who would come looking for assistance or guidance with issues faced in the topics we would provide.
